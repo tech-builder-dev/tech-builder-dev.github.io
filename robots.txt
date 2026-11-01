@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techbuilder.dev/sitemap.xml
